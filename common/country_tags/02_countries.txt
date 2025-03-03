@@ -17,10 +17,10 @@ TUC = "countries/Grusa.txt"
 CNI = "countries/Centauri.txt"
 LAC = "countries/Lacerta.txt"
 MUS = "countries/Musca.txt"
-SCR = "countries/South Corvus.txt"
+SOC = "countries/South Corvus.txt"
 
 # Skorpii States
-SKC = "countries/Skorpii Corvus.txt"
+SKK = "countries/Skorpii Korvus.txt"
 SKG = "countries/Skorpii Grusii.txt"
 SKR = "countries/Skorpii Riaa.txt"
 
