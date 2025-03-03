@@ -1,0 +1,7 @@
+#reload countrycolors
+
+COL = {
+	color = HSV { 123 41 54 }
+
+	color_ui = { 82 140 85 }
+}
